@@ -1,4 +1,4 @@
-# BeePoolDataDump
+# HiveDataDump
 Dump the mining speed data from beepool to local disk
 
 ### To setup env  
