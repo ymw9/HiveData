@@ -3,7 +3,7 @@ from apscheduler.triggers.cron import CronTrigger
 
 from casher import casher
 
-import download_beepool
+
 import logging
 import os
 
