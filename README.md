@@ -1,5 +1,5 @@
 # HiveDataDump
-Dump the mining speed data from beepool to local disk
+Dump the mining speed data from hiveon pool to local disk
 
 ### To setup env  
 You need venv or conda.
